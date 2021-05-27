@@ -1,0 +1,2 @@
+# pointTracker
+This program tracks the a selected part of the body selected by clicking on it. The calculations are too bulky so I have made use of different threads. The program may be improved in many ways, one being :updating the tracking data when the fitness is close to the actual tracking data ->This will help in tracking the point even when the point being tracked moves further(gets smaller).
